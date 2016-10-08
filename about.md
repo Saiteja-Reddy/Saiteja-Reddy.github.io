@@ -12,4 +12,4 @@ I'm 19 yrs old . Indian .
 Currently studying at International Institute of Informational Technology , Hyderabad .
 ### Contact me
 
-[email@domain.com](mailto:saiteja0317@gmail.com)
+[saiteja0317@gmail.com](mailto:saiteja0317@gmail.com)
