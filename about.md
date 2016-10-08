@@ -2,14 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
-
+I'm 19 yrs old . Indian .
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+Currently studying at International Institute of Informational Technology , Hyderabad .
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:saiteja0317@gmail.com)
