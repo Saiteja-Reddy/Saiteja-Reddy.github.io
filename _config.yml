@@ -15,6 +15,14 @@ avatar: https://avatars0.githubusercontent.com/u/16854126?v=3&s=466
 # Flags below are optional
 #
 
+defaults:
+  -
+    scope:
+      path: ""      # empty string for all files
+      type: posts   # limit to posts
+    values:
+      is_post: true # automatically set is_post=true for all posts: 
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
